@@ -13,3 +13,4 @@ The random option will cycle randomly between the 4 operators | + | - | * | \ | 
 The player gains levels by completing 3 questions consecutively and loses a level of 3 are incorrect.
 
 The levels are capped at 1 and 4 but could easily be expanded, the game also has error prevention for invalid inputs. If the user types a letter or an invalid number in the menu a mmessage will alert the user to know that it isnt excepted.
+#Forked from tomojacobs/mathsGame
